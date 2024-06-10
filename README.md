@@ -65,10 +65,6 @@ This is a Node.js pet project designed to upload photos to Google Drive and retu
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 With this service, you can easily manage and share your photos with the added convenience of QR codes for quick access to your Google Drive. Enjoy the seamless integration and enhanced accessibility!
